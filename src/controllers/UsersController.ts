@@ -1,7 +1,8 @@
-import { User } from '@models/User';
+import { User } from '@models/User'
 
 export class UsersController {
-    teste() {
-        const user = new User();
-    }
+  teste () {
+    // eslint-disable-next-line no-unused-vars
+    const user = new User()
+  }
 }
